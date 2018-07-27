@@ -1,0 +1,7 @@
+Considerações:
+
+1 - A chamada do processo deveria ser realizada por um pagamento ou ordem, porém para elucidar melhor o exemplo da construção do processo, estou realizando a chamada por um produto/serviço, cada qual do tipo necessário para o exemplo de faturamento e envio;
+
+2 - O código final éfuncional, que pode ser executado no Interactive Ruby, com input por escolha. Deixei os PUTS para o console, para que seja conferido o resultado de cada regra, porém em um processador de arquivos de pedidos, geralmente os logs são armazenados em arquivos de texto, para conferência posterior;
+
+3 - Realizado algums modificações em algumas classes e métodos que já estavam criadas no arquivo bootstrap.rb, para que a solução tivesse um fluxo mais fluído.
