@@ -4,4 +4,6 @@ Considerações:
 
 2 - O código final éfuncional, que pode ser executado no Interactive Ruby, com input por escolha. Deixei os PUTS para o console, para que seja conferido o resultado de cada regra, porém em um processador de arquivos de pedidos, geralmente os logs são armazenados em arquivos de texto, para conferência posterior;
 
-3 - Realizado algums modificações em algumas classes e métodos que já estavam criadas no arquivo bootstrap.rb, para que a solução tivesse um fluxo mais fluído.
+3 - Ficou faltando a geração de UUID/GUID para os registros, porém era necessário usar SecureRandom, e fiquei na duvida se poderia usar de libs externas para esse teste;
+
+4 - Realizado algums modificações em algumas classes e métodos que já estavam criadas no arquivo bootstrap.rb, para que a solução tivesse um fluxo mais fluído.
